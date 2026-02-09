@@ -122,7 +122,7 @@
     cursor: pointer;
     align-items: center;
     margin-top: 20px;
-    /* margin-left: 160px; */
+    margin-left: 160px;
 }
 
 .contact_sales{
@@ -611,4 +611,5 @@
     border-radius: 10px;
     height: 250px;
 }
+
 }
